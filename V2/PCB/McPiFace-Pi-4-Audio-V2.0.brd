@@ -170,9 +170,9 @@
 <rectangle x1="37" y1="10.6" x2="52" y2="41.6" layer="25"/>
 <text x="62.8" y="25" size="1.27" layer="20">CUTOUT</text>
 <text x="57.4" y="81.3" size="2.54" layer="26" ratio="15" rot="MR0">McPiFace.com</text>
-<text x="70.3" y="6.9" size="1.778" layer="26" ratio="15" rot="MR180">Pi 4 - V1.0</text>
+<text x="70.3" y="6.9" size="1.778" layer="26" ratio="15" rot="MR180">Pi 4 - V2.0</text>
 <text x="49.7" y="73.6" size="1.778" layer="26" ratio="15" rot="MR270">Stephen Harrison</text>
-<text x="45.3" y="73.7" size="1.778" layer="26" ratio="15" rot="MR270">15 Feb 2019</text>
+<text x="45.3" y="73.7" size="1.778" layer="26" ratio="15" rot="MR270">12 Jan 2020</text>
 </plain>
 <libraries>
 <library name="SparkFun-Aesthetics">

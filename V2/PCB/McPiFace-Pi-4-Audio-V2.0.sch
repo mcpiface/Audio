@@ -6090,7 +6090,7 @@ SparkFun BigTime Watch Kit&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 <sheets>
 <sheet>
 <plain>
-<text x="238.76" y="7.62" size="2.54" layer="97">V1.0</text>
+<text x="238.76" y="7.62" size="2.54" layer="97">V2.0</text>
 <text x="172.72" y="10.16" size="2.54" layer="97">Stephen Harrison</text>
 <wire x1="0" y1="66.04" x2="76.2" y2="66.04" width="0.1524" layer="97"/>
 <wire x1="76.2" y1="66.04" x2="76.2" y2="0" width="0.1524" layer="97"/>

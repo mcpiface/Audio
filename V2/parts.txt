@@ -1,6 +1,6 @@
 Partlist
 
-Exported from McPiFace-Pi-4-Audio-V1.0.brd at 12/01/2020 14:59
+Exported from McPiFace-Pi-4-Audio-V2.0.brd at 12/01/2020 15:04
 
 EAGLE Version 7.4.0 Copyright (c) 1988-2015 CadSoft
 
